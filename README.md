@@ -34,6 +34,14 @@ Airnow is a search engine that allows you to find the air quality index (AQI) of
 3. Run on Localhost : npm start
 4. Open your web browser and navigate to `http://localhost:3000` to access Airnow.
 
+## Screenshots
+
+![a1](https://github.com/WickTech/AirNow/assets/44228839/3b6aec4b-b90b-44ce-813d-242d40b7fac5)
+![a2](https://github.com/WickTech/AirNow/assets/44228839/23123a1e-5f95-480a-9dc4-ef6f42d271dd)
+![a3](https://github.com/WickTech/AirNow/assets/44228839/7fa1c293-f1a0-4197-9823-f1116888983c)
+![a4](https://github.com/WickTech/AirNow/assets/44228839/139c4991-9691-4f43-bb73-01b3ffda1082)
+![a5](https://github.com/WickTech/AirNow/assets/44228839/38fe1915-065c-4865-803b-0eedfacb9dfa)
+
 ## Acknowledgements
 
 - This project utilizes the API provided by aqicn.org to fetch air quality data.
